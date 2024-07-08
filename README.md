@@ -4,3 +4,5 @@ The following repositories are used in the [demo analytics dashboard](http://ana
 - **Python Analytics Service:** https://github.com/mchlevans/demo-analytics-service
 - **Java API:** https://github.com/mchlevans/demo-java-service
 - **React UI:** https://github.com/mchlevans/demo-ui
+
+![alt text](https://github.com/mchlevans/demo-ui/blob/main/src/static/diagram.png)
